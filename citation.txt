@@ -1,0 +1,8 @@
+@article{REPO176,
+    author = "Long, Yahui and Ang, Kok Siong and Sethi, Raman and Liao, Sha and Heng, Yang and van Olst, Lynn and Ye, Shuchen and Zhong, Chengwei and Xu, Hang and Zhang, Di and others",
+    journal = "Nature Methods",
+    pages = "1--10",
+    publisher = "Nature Publishing Group",
+    title = "{Deciphering spatial domains from spatial multi-omics with SpatialGlue}",
+    year = "2024"
+}
